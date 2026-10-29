@@ -2,12 +2,12 @@
 <h3 align="center">WordPress & Software Developer · Computer Science Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-mujahid-sarfraz-2631a43b6"><img src="https://img.shields.io/badge/LinkedIn-Mujahid%20Sarfraz-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mujahidsarfrazsb@gmail.com"><img src="https://img.shields.io/badge/Email-mujahidsarfrazsb%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://profiles.wordpress.org/mujahidwp/"><img src="https://img.shields.io/badge/WordPress.org-mujahidwp-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress.org"></a>
-  <a href="https://github.com/mujahidwp"><img src="https://img.shields.io/badge/GitHub-mujahidwp-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Location-Pakistan-01411C?style=flat" alt="Pakistan">
-  <img src="https://img.shields.io/badge/Open%20to-Work-2EA44F?style=flat" alt="Open to work">
+  <a href="https://www.linkedin.com/in/muhammad-mujahid-sarfraz-2631a43b6"><img src="assets/badges/linkedin.svg" alt="LinkedIn" height="28"></a>
+  <a href="mailto:mujahidsarfrazsb@gmail.com"><img src="assets/badges/email.svg" alt="Email" height="28"></a>
+  <a href="https://profiles.wordpress.org/mujahidwp/"><img src="assets/badges/wordpress.svg" alt="WordPress.org" height="28"></a>
+  <a href="https://github.com/mujahidwp"><img src="assets/badges/github.svg" alt="GitHub" height="28"></a>
+  <img src="assets/badges/location.svg" alt="Pakistan" height="28">
+  <img src="assets/badges/opentowork.svg" alt="Open to work" height="28">
 </p>
 
 I build **WordPress plugins and websites**, **C# / .NET desktop applications**, and **Python tools** for automation and machine learning. I like turning ideas into clean, practical software that solves real problems.
