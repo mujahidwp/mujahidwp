@@ -83,7 +83,7 @@ A Real Estate Management System built with C# Windows Forms, MySQL, and database
 - CSV reporting
 - MySQL database integration
 
-🔗 [View EstateFlow](https://github.com/mujahidsarfrazsb-source/EstateFlow)
+🔗 [View EstateFlow](https://github.com/mujahidwp/EstateFlow)
 
 ---
 
@@ -100,7 +100,7 @@ A collection of three Python projects completed as part of the DecodeLabs intern
 - Model training and evaluation
 - Project-specific documentation and tests
 
-🔗 [View DecodeLabs Internship](https://github.com/mujahidsarfrazsb-source/DecodeLabs-Internship)
+🔗 [View DecodeLabs Internship](https://github.com/mujahidwp/DecodeLabs-Internship)
 
 ---
 
@@ -110,7 +110,7 @@ A Python project created during the CodeAlpha internship for tracking stock inve
 
 The project focuses on practical Python programming, user input handling, calculations, and structured output.
 
-🔗 [View Stock Portfolio Tracker](https://github.com/mujahidsarfrazsb-source/CodeAlpha_StockPortfolioTracker)
+🔗 [View Stock Portfolio Tracker](https://github.com/mujahidwp/CodeAlpha_StockPortfolioTracker)
 
 ---
 
@@ -120,7 +120,7 @@ A Python automation project created during the CodeAlpha internship for extracti
 
 The project focuses on text processing, automation, validation, and practical file handling.
 
-🔗 [View Email Extractor Automation](https://github.com/mujahidsarfrazsb-source/CodeAlpha_EmailExtractorAutomation)
+🔗 [View Email Extractor Automation](https://github.com/mujahidwp/CodeAlpha_EmailExtractorAutomation)
 
 ---
 
@@ -130,7 +130,7 @@ A repository containing development tasks and projects completed during the Code
 
 It documents my practical work, coding exercises, and project development during the internship.
 
-🔗 [View CodeAlpha Tasks](https://github.com/mujahidsarfrazsb-source/codealpha_tasks)
+🔗 [View CodeAlpha Tasks](https://github.com/mujahidwp/codealpha_tasks)
 
 ---
 
@@ -170,7 +170,7 @@ It documents my practical work, coding exercises, and project development during
 
 ## 📫 Connect With Me
 
-- GitHub: [@mujahidsarfrazsb-source](https://github.com/mujahidsarfrazsb-source)
+- GitHub: [@mujahidwp](https://github.com/mujahidwp)
 
 ---
 
