@@ -1,177 +1,38 @@
-# Hi, I'm Mujahid Sarfraz 👋
+<h1 align="center">Hi, I'm Mujahid Sarfraz 👋</h1>
+<h3 align="center">WordPress & Software Developer · Computer Science Student</h3>
 
-### Computer Science Student | Python Developer | AI & Machine Learning Enthusiast | WordPress Developer | Software Developer
+<p align="center">
+  <a href="https://profiles.wordpress.org/mujahidwp/"><img src="https://img.shields.io/badge/WordPress.org-mujahidwp-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress.org"></a>
+  <a href="https://github.com/mujahidwp"><img src="https://img.shields.io/badge/GitHub-mujahidwp-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/Location-Pakistan-01411C?style=flat" alt="Pakistan">
+  <img src="https://img.shields.io/badge/Open%20to-Work-2EA44F?style=flat" alt="Open to work">
+</p>
 
-I'm a Computer Science student who enjoys building practical software, Python applications, WordPress solutions, automation tools, and machine learning projects.
-
-I like learning by building real projects and turning ideas into useful, clean, and maintainable applications.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Student
-- 🐍 Python Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 WordPress Developer
-- 🧩 Interested in WordPress Themes & Plugins
-- 🖥️ C# & .NET Desktop Application Development
-- 🌐 PHP & JavaScript Development
-- 🗄️ MySQL & Database Development
-- ⚙️ Interested in Automation and practical software tools
-- 📚 Continuously improving my development skills
-- 🎯 Focused on building real-world projects
-
----
+I build **WordPress plugins and websites**, **C# / .NET desktop applications**, and **Python tools** for automation and machine learning. I like turning ideas into clean, practical software that solves real problems.
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- C#
-- PHP
-- JavaScript
-- HTML
-- CSS
-- C++
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,html,css,mysql,cs,dotnet,python,sklearn,cpp,git,vscode,visualstudio&perline=14" alt="Tech stack">
+</p>
 
-### AI & Machine Learning
-- Scikit-learn
-- K-Nearest Neighbors (KNN)
-- TF-IDF
-- Cosine Similarity
-- Data Classification
-- Recommendation Systems
-- Rule-Based Systems
-
-### Frameworks & Platforms
-- .NET
-- Windows Forms
-- WordPress
-- Elementor
-
-### Databases
-- MySQL
-- SQL
-
-### Tools
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- XAMPP
-- phpMyAdmin
-
----
+**Also experienced with:** Windows Forms · Elementor · ADO.NET · XAMPP · phpMyAdmin
 
 ## 📌 Featured Projects
 
-### 🏠 EstateFlow
+| Project | What it is | Built with |
+|---|---|---|
+| 🏠 [**EstateFlow**](https://github.com/mujahidwp/EstateFlow) | Real estate management system with login and roles, property, client, agent and sales management, dashboard and CSV reports | C#, Windows Forms, MySQL |
+| 🧠 [**DecodeLabs Internship**](https://github.com/mujahidwp/DecodeLabs-Internship) | Rule-based chatbot, Iris classification (KNN) and a tech-stack recommender (TF-IDF + cosine similarity) | Python, scikit-learn |
+| 📈 [**Stock Portfolio Tracker**](https://github.com/mujahidwp/CodeAlpha_StockPortfolioTracker) | Tracks stock holdings, calculates portfolio value and exports a CSV summary | Python |
+| 📧 [**Email Extractor Automation**](https://github.com/mujahidwp/CodeAlpha_EmailExtractorAutomation) | Extracts and cleans email addresses from text files using regex | Python |
 
-A Real Estate Management System built with C# Windows Forms, MySQL, and database-driven desktop application development.
+## 🌱 Currently Focused On
 
-**Features include:**
+- Building production-quality **WordPress plugins**
+- Practical **AI / machine learning** projects in Python
+- Clean software architecture and database design
 
-- Authentication & role support
-- Property management
-- Client management
-- Agent management
-- Sales management
-- Search & filtering
-- Dashboard statistics
-- CSV reporting
-- MySQL database integration
+## 📫 Let's Connect
 
-🔗 [View EstateFlow](https://github.com/mujahidwp/EstateFlow)
-
----
-
-### 🧠 DecodeLabs Internship
-
-A collection of three Python projects completed as part of the DecodeLabs internship program.
-
-**Projects include:**
-
-- Rule-Based AI Chatbot
-- Iris Dataset Classification using KNN
-- Tech Stack Recommendation System
-- TF-IDF and cosine similarity based recommendations
-- Model training and evaluation
-- Project-specific documentation and tests
-
-🔗 [View DecodeLabs Internship](https://github.com/mujahidwp/DecodeLabs-Internship)
-
----
-
-### 📈 Stock Portfolio Tracker
-
-A Python project created during the CodeAlpha internship for tracking stock investments and calculating portfolio values.
-
-The project focuses on practical Python programming, user input handling, calculations, and structured output.
-
-🔗 [View Stock Portfolio Tracker](https://github.com/mujahidwp/CodeAlpha_StockPortfolioTracker)
-
----
-
-### 📧 Email Extractor Automation
-
-A Python automation project created during the CodeAlpha internship for extracting and organizing email addresses from supplied data.
-
-The project focuses on text processing, automation, validation, and practical file handling.
-
-🔗 [View Email Extractor Automation](https://github.com/mujahidwp/CodeAlpha_EmailExtractorAutomation)
-
----
-
-### 💻 CodeAlpha Tasks
-
-A repository containing development tasks and projects completed during the CodeAlpha internship.
-
-It documents my practical work, coding exercises, and project development during the internship.
-
-🔗 [View CodeAlpha Tasks](https://github.com/mujahidwp/codealpha_tasks)
-
----
-
-## 🌱 Currently Learning
-
-- Python Development
-- Artificial Intelligence Fundamentals
-- Machine Learning
-- Data Classification
-- Recommendation Systems
-- Advanced WordPress Development
-- WordPress Plugin Development
-- PHP
-- JavaScript
-- Modern Web Development
-- Software Architecture
-- Database Design
-- Automation
-- Git & GitHub
-
----
-
-## 🎯 2026 Goals
-
-- Improve my Python development skills
-- Build more practical AI and machine learning projects
-- Develop useful automation tools
-- Build production-quality WordPress plugins
-- Develop more full-stack applications
-- Improve software architecture skills
-- Work with larger datasets and machine learning models
-- Contribute to open-source projects
-- Build a strong developer portfolio
-- Work on real-world software products
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@mujahidwp](https://github.com/mujahidwp)
-
----
-
-⭐ Thanks for visiting my profile!
+Open to internships, freelance WordPress work and collaboration. Reach me through [WordPress.org](https://profiles.wordpress.org/mujahidwp/) or open an issue on any of my repositories.
