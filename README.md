@@ -20,7 +20,30 @@ I build **WordPress plugins and websites**, **C# / .NET desktop applications**, 
 
 **Also experienced with:** Windows Forms · Elementor · ADO.NET · XAMPP · phpMyAdmin
 
-## 📌 Featured Projects
+## 🧩 WordPress Products
+
+All of these are reviewed and published on the official **[WordPress.org directory](https://profiles.wordpress.org/mujahidwp/)**.
+
+### Plugins
+
+| Plugin | What it does | WordPress.org |
+|---|---|---|
+| 🛒 [**Kassebridge**](https://github.com/mujahidwp/Kassebridge) | Safely moves WooCommerce from classic checkout to the Checkout block with readiness scans and a controlled rollout | [View](https://wordpress.org/plugins/kassebridge-checkout-migration-health-for-woocommerce/) |
+| 📦 [**Zelqorio**](https://github.com/mujahidwp/Zelqorio) | Spreadsheet-style bulk editor for WooCommerce products, prices, stock and variations | [View](https://wordpress.org/plugins/zelqorio/) |
+| 🗂️ [**AlterCove**](https://github.com/mujahidwp/AlterCove) | Draft site-wide changes in a private workspace, preview them, then publish or schedule | [View](https://wordpress.org/plugins/altercove/) |
+| 🔐 [**Capveriq**](https://github.com/mujahidwp/Capveriq) | Explains why a user cannot access a page or action by tracing roles and capabilities | [View](https://wordpress.org/plugins/capveriq-permission-access-debugger/) |
+| 🔎 [**Trazelio**](https://github.com/mujahidwp/Trazelio) | Finds leftover localhost, staging and old-domain URLs in the database after a migration | [View](https://wordpress.org/plugins/trazelio-migration-leftover-url-scanner/) |
+| 🖼️ [**Librizent**](https://github.com/mujahidwp/Librizent) | Media Library health audit: missing ALT text, oversized images and broken metadata | [View](https://wordpress.org/plugins/librizent-media-library-health/) |
+| 🏘️ [**Equiroof**](https://github.com/mujahidwp/Equiroof) | Flags risky fair-housing wording and shows full rental fee disclosure on property listings | [View](https://wordpress.org/plugins/equiroof-fair-housing-language-rental-fee-disclosure/) |
+
+### Themes
+
+| Theme | What it is | WordPress.org |
+|---|---|---|
+| 🛍️ [**Cenvylo**](https://github.com/mujahidwp/Cenvylo) | Fast, accessible, WooCommerce-ready full site editing block theme for online stores | [View](https://wordpress.org/themes/cenvylo/) · [Preview](https://wp-themes.com/cenvylo/) |
+| 🔧 [**Servnora**](https://github.com/mujahidwp/Servnora) | Block theme for local service businesses with 100+ patterns and 12 style variations | [View](https://wordpress.org/themes/servnora/) · [Preview](https://wp-themes.com/servnora/) |
+
+## 📌 Other Projects
 
 | Project | What it is | Built with |
 |---|---|---|
