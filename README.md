@@ -28,20 +28,20 @@ All of these are free, reviewed and published on the official **[WordPress.org d
 
 | Plugin | What it does | Get it |
 |---|---|---|
-| 🛒 [**Kassebridge**](https://wordpress.org/plugins/kassebridge-checkout-migration-health-for-woocommerce/) | Safely moves WooCommerce from classic checkout to the Checkout block with readiness scans and a controlled rollout | [⬇️ Download](https://wordpress.org/plugins/kassebridge-checkout-migration-health-for-woocommerce/) |
-| 📦 [**Zelqorio**](https://wordpress.org/plugins/zelqorio/) | Spreadsheet-style bulk editor for WooCommerce products, prices, stock and variations | [⬇️ Download](https://wordpress.org/plugins/zelqorio/) |
-| 🗂️ [**AlterCove**](https://wordpress.org/plugins/altercove/) | Draft site-wide changes in a private workspace, preview them, then publish or schedule | [⬇️ Download](https://wordpress.org/plugins/altercove/) |
-| 🔐 [**Capveriq**](https://wordpress.org/plugins/capveriq-permission-access-debugger/) | Explains why a user cannot access a page or action by tracing roles and capabilities | [⬇️ Download](https://wordpress.org/plugins/capveriq-permission-access-debugger/) |
-| 🔎 [**Trazelio**](https://wordpress.org/plugins/trazelio-migration-leftover-url-scanner/) | Finds leftover localhost, staging and old-domain URLs in the database after a migration | [⬇️ Download](https://wordpress.org/plugins/trazelio-migration-leftover-url-scanner/) |
-| 🖼️ [**Librizent**](https://wordpress.org/plugins/librizent-media-library-health/) | Media Library health audit: missing ALT text, oversized images and broken metadata | [⬇️ Download](https://wordpress.org/plugins/librizent-media-library-health/) |
-| 🏘️ [**Equiroof**](https://wordpress.org/plugins/equiroof-fair-housing-language-rental-fee-disclosure/) | Flags risky fair-housing wording and shows full rental fee disclosure on property listings | [⬇️ Download](https://wordpress.org/plugins/equiroof-fair-housing-language-rental-fee-disclosure/) |
+| 🛒 [**Kassebridge**](https://wordpress.org/plugins/kassebridge-checkout-migration-health-for-woocommerce/) | Safely moves WooCommerce from classic checkout to the Checkout block with readiness scans and a controlled rollout | [👁️ View](https://github.com/mujahidwp/Kassebridge) · [⬇️ Download](https://wordpress.org/plugins/kassebridge-checkout-migration-health-for-woocommerce/) |
+| 📦 [**Zelqorio**](https://wordpress.org/plugins/zelqorio/) | Spreadsheet-style bulk editor for WooCommerce products, prices, stock and variations | [👁️ View](https://github.com/mujahidwp/Zelqorio) · [⬇️ Download](https://wordpress.org/plugins/zelqorio/) |
+| 🗂️ [**AlterCove**](https://wordpress.org/plugins/altercove/) | Draft site-wide changes in a private workspace, preview them, then publish or schedule | [👁️ View](https://github.com/mujahidwp/AlterCove) · [⬇️ Download](https://wordpress.org/plugins/altercove/) |
+| 🔐 [**Capveriq**](https://wordpress.org/plugins/capveriq-permission-access-debugger/) | Explains why a user cannot access a page or action by tracing roles and capabilities | [👁️ View](https://github.com/mujahidwp/Capveriq) · [⬇️ Download](https://wordpress.org/plugins/capveriq-permission-access-debugger/) |
+| 🔎 [**Trazelio**](https://wordpress.org/plugins/trazelio-migration-leftover-url-scanner/) | Finds leftover localhost, staging and old-domain URLs in the database after a migration | [👁️ View](https://github.com/mujahidwp/Trazelio) · [⬇️ Download](https://wordpress.org/plugins/trazelio-migration-leftover-url-scanner/) |
+| 🖼️ [**Librizent**](https://wordpress.org/plugins/librizent-media-library-health/) | Media Library health audit: missing ALT text, oversized images and broken metadata | [👁️ View](https://github.com/mujahidwp/Librizent) · [⬇️ Download](https://wordpress.org/plugins/librizent-media-library-health/) |
+| 🏘️ [**Equiroof**](https://wordpress.org/plugins/equiroof-fair-housing-language-rental-fee-disclosure/) | Flags risky fair-housing wording and shows full rental fee disclosure on property listings | [👁️ View](https://github.com/mujahidwp/Equiroof) · [⬇️ Download](https://wordpress.org/plugins/equiroof-fair-housing-language-rental-fee-disclosure/) |
 
 ### Themes
 
 | Theme | What it is | Get it |
 |---|---|---|
-| 🛍️ [**Cenvylo**](https://wordpress.org/themes/cenvylo/) | Fast, accessible, WooCommerce-ready full site editing block theme for online stores | [⬇️ Download](https://wordpress.org/themes/cenvylo/) · [Preview](https://wp-themes.com/cenvylo/) |
-| 🔧 [**Servnora**](https://wordpress.org/themes/servnora/) | Block theme for local service businesses with 100+ patterns and 12 style variations | [⬇️ Download](https://wordpress.org/themes/servnora/) · [Preview](https://wp-themes.com/servnora/) |
+| 🛍️ [**Cenvylo**](https://wordpress.org/themes/cenvylo/) | Fast, accessible, WooCommerce-ready full site editing block theme for online stores | [👁️ View](https://github.com/mujahidwp/Cenvylo) · [⬇️ Download](https://wordpress.org/themes/cenvylo/) · [Preview](https://wp-themes.com/cenvylo/) |
+| 🔧 [**Servnora**](https://wordpress.org/themes/servnora/) | Block theme for local service businesses with 100+ patterns and 12 style variations | [👁️ View](https://github.com/mujahidwp/Servnora) · [⬇️ Download](https://wordpress.org/themes/servnora/) · [Preview](https://wp-themes.com/servnora/) |
 
 ## 📌 Other Projects
 
